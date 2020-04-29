@@ -26,8 +26,11 @@ const styles = {
     alignItems: 'center',
     marginTop: 15,
     // Gölge verme
+    //shadowColor: '#000',
     shadowOffSet: {widht: 0, height: 2},
-    shadowOpacity: 0.5,
+    shadowOpacity: 0.23,
+    //shadowRadius: 2.62,
+    elevation: 8,
   },
 };
 
